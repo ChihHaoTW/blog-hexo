@@ -1,0 +1,3 @@
+[submodule "themes/hexo-theme-Anatole"]
+	path = themes/hexo-theme-Anatole
+	url = git@github.com:Ben02/hexo-theme-Anatole.git
